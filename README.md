@@ -7,3 +7,6 @@
 
 * Fixity reporting in storage system GUI
 > ![Fixity-Dash](fixity-dash.png)
+
+
+* Must update various dependent tools like `mediainfo`!! Very old versions!
